@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogDaily", "LogDaily.csproj", "{C4A960BE-7F03-4E43-B43E-24FC2D5C54B1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecordsManager", "..\RecordSerializer\RecordsManager.csproj", "{E6322E37-E069-471F-83A1-B73362E6072B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C4A960BE-7F03-4E43-B43E-24FC2D5C54B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4A960BE-7F03-4E43-B43E-24FC2D5C54B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4A960BE-7F03-4E43-B43E-24FC2D5C54B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6322E37-E069-471F-83A1-B73362E6072B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6322E37-E069-471F-83A1-B73362E6072B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6322E37-E069-471F-83A1-B73362E6072B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6322E37-E069-471F-83A1-B73362E6072B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
